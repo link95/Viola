@@ -101,7 +101,7 @@ $(document).ready(function() {
   $(document).ready(function() {
     $("#owl-testimonial").owlCarousel({
       autoPlay: 4000,
-      singleItem: true,
+      singleItem: true
     });
   });
 
